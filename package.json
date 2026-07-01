@@ -1,0 +1,20 @@
+{
+  "name": "ngap-vpn-panel",
+  "version": "0.1.0",
+  "description": "Open Source VPN Management Panel for MikroTik",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "mikrotik",
+    "vpn",
+    "l2tp",
+    "sstp",
+    "wireguard",
+    "openvpn"
+  ],
+  "author": "Muhamad Mustagfirin",
+  "license": "MIT"
+}
